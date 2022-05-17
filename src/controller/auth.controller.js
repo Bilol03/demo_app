@@ -4,5 +4,4 @@ const GET = (req, res) => {
 
 export default {
     GET,
-    
 }

@@ -1,9 +1,16 @@
 import express from 'express'
-import "./config.js"
 import authRoute from './routes/auth.js'
 const PORT = process.env.PORT || 5000
 const app = express()
 
+//set arguements to the process
+
+import "./config.js"
+import "./validation/validation.js"
+import url from 'url'
+
+
+app.use( express.json() )
 app.use(authRoute)
 
 
