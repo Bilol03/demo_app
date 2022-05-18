@@ -1,0 +1,20 @@
+[
+    {
+        "userId": 1,
+        "username": "Bilol",
+        "password": "Bilol4ik",
+        "birthDate": 2003
+    },
+    {
+        "userId": 2,
+        "username": "Bilol",
+        "password": "Bilol4ik",
+        "birthDate": 2003
+    },
+    {
+        "userId": 3,
+        "username": "Bilol",
+        "password": "Bilol4ik",
+        "birthDate": 2003
+    }
+]

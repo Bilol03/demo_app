@@ -7,7 +7,6 @@ const app = express()
 
 import "./config.js"
 import "./validation/validation.js"
-import url from 'url'
 
 
 app.use( express.json() )
